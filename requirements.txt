@@ -1,0 +1,12 @@
+streamlit 
+yfinance
+pandas
+numpy 
+matplot
+lib.pyplot
+seaborn
+warnings
+pmdarima 
+statsmodels
+sklearn
+math
